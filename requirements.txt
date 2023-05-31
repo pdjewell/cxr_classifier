@@ -1,0 +1,13 @@
+keras==2.13.1rc0
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==2.0.2
+Pillow==9.5.0
+pyarrow==12.0.0
+seaborn==0.12.2
+streamlit==1.22.0
+tensorboard==2.13.0
+tensorboard-data-server==0.7.0
+tensorflow==2.13.0rc1
+tensorflow-estimator==2.13.0rc0
+tensorflow-macos==2.13.0rc1
